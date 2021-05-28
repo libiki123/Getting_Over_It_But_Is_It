@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: bb35af95735851440927571ef230221b, type: 3}
+    - {fileID: 2800000, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300040, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300036, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300034, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300038, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300006, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300052, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300026, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300060, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300032, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300022, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300010, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300028, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300042, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300020, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300018, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300046, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300044, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300048, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300002, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300024, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300014, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300008, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300012, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300016, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300066, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300062, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300064, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300054, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300058, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300056, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300068, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300070, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300072, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300050, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300004, guid: 157cbc340d2b7e64ab85168e80e95550, type: 3}
+  - {fileID: 21300036, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300004, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300038, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300034, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300016, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300012, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300000, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300060, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300008, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300046, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300014, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300024, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300058, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300002, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300048, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300044, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300006, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300010, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300042, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300032, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300028, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300052, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300026, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300054, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300064, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300062, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300030, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300050, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300018, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300020, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300070, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300068, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300066, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300022, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300056, guid: bb35af95735851440927571ef230221b, type: 3}
+  - {fileID: 21300040, guid: bb35af95735851440927571ef230221b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TX Tileset Ground Darken TL
+  - TX Tileset Ground Darken C B
+  - TX Tileset Ground Darken C L
+  - TX Tileset Ground Darken C T
+  - TX Tileset Ground Darken C R
+  - TX Tileset Ground Darken BR
+  - TX Tileset Ground Darken Slope X1 R T
+  - TX Tileset Ground Darken Col T
+  - TX Tileset Ground Darken Slope X1 R B
+  - TX Tileset Ground Darken Col B
+  - TX Tileset Ground Darken Row R
+  - TX Tileset Ground Darken BL
+  - TX Tileset Ground Darken Col M
+  - TX Tileset Ground Darken C BL
+  - TX Tileset Ground Darken Row M
+  - TX Tileset Ground Darken Row L
+  - TX Tileset Ground Darken C TR
+  - TX Tileset Ground Darken C BR
+  - TX Tileset Ground Darken C TL
+  - TX Tileset Ground Darken T
+  - TX Tileset Ground Darken S
+  - TX Tileset Ground Darken R
+  - TX Tileset Ground Darken B
+  - TX Tileset Ground Darken M
+  - TX Tileset Ground Darken L
+  - TX Tileset Ground Darken Slope X2 L 4
+  - TX Tileset Ground Darken Slope X2 L 2
+  - TX Tileset Ground Darken Slope X2 L 3
+  - TX Tileset Ground Darken Slope X2 L 1
+  - TX Tileset Ground Darken Slope X1 L B
+  - TX Tileset Ground Darken Slope X2 R 1
+  - TX Tileset Ground Darken Slope X2 R 2
+  - TX Tileset Ground Darken Slope X2 R 3
+  - TX Tileset Ground Darken Slope X2 R 4
+  - TX Tileset Ground Darken Slope X1 L T
+  - TX Tileset Ground Darken TR
+  - TX Tileset Ground C L
+  - TX Tileset Ground TR
+  - TX Tileset Ground C R
+  - TX Tileset Ground C T
+  - TX Tileset Ground L
+  - TX Tileset Ground M
+  - TX Tileset Ground TL
+  - TX Tileset Ground Slope X1 B R
+  - TX Tileset Ground B
+  - TX Tileset Ground C TR
+  - TX Tileset Ground R
+  - TX Tileset Ground S
+  - TX Tileset Ground Slope X1 B L
+  - TX Tileset Ground T
+  - TX Tileset Ground C TL
+  - TX Tileset Ground C BR
+  - TX Tileset Ground BR
+  - TX Tileset Ground BL
+  - TX Tileset Ground C BL
+  - TX Tileset Ground Col B
+  - TX Tileset Ground Col M
+  - TX Tileset Ground Slope X1 T R
+  - TX Tileset Ground Col T
+  - TX Tileset Ground Slope X2 L 1
+  - TX Tileset Ground Slope X2 L 3
+  - TX Tileset Ground Slope X2 L 2
+  - TX Tileset Ground Slope X2 L 4
+  - TX Tileset Ground Slope X1 T L
+  - TX Tileset Ground Row L
+  - TX Tileset Ground Row M
+  - TX Tileset Ground Slope X2 R 4
+  - TX Tileset Ground Slope X2 R 3
+  - TX Tileset Ground Slope X2 R 2
+  - TX Tileset Ground Row R
+  - TX Tileset Ground Slope X2 R 1
+  - TX Tileset Ground C B
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
