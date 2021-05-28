@@ -15,4 +15,5 @@ A game project i made for the 2021 CGX Grad Jam
 
 ## ScreenShots
 <img src="Images/ss3.png" height='230x' width='400x'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ss1.png" height='230x' width='400x'/>
+
 <img src="Images/ss2.png" height='230x' width='400x'/>
