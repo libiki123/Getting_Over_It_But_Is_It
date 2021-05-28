@@ -80,9 +80,9 @@ public class PlayerController : MonoBehaviour
             lastShotTime = Time.time;
             isShooting = true;
             AudioPlayer.Instance.PlaySound(SFX.Shot);
-        }		
+        }
 
-        if(Time.time >= lastShotTime + 1.5f && currentBulletNum <= 2 && CheckGround())
+        if (Time.time >= lastShotTime + 1.5f && currentBulletNum <= 2 && CheckGround())
 		{
             Reload();
 		}
@@ -251,5 +251,6 @@ public class PlayerController : MonoBehaviour
 	private void OnDrawGizmos()
 	{
         Gizmos.DrawWireSphere(damgePos.position + (Vector3)(Vector2.right * damageRadius), 0.2f);
+        Gizmos.DrawWireSphere(groundCheck.position, 0.2f);
 	}
 }
