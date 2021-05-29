@@ -1,6 +1,7 @@
 # Getting Over It-But Is it?
 ![platform](https://img.shields.io/badge/Platform-Unity-yellow.svg)
 ![Language](https://img.shields.io/badge/Language-C%23-orange.svg)
+![Language](https://img.shields.io/badge/Event-GameJam-ff69b4.svg)
 
 A game project i made for the 2021 CGX Grad Jam
 
